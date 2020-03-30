@@ -1,0 +1,7 @@
+$ e2chk
+    Validates the configuration of VPC.
+
+Usage:
+
+  $ pip install --editable .
+  $ e2chk --help
